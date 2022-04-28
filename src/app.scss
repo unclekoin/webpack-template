@@ -1,0 +1,18 @@
+$white-color: #FFFFFF;
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 150px 0 50px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 50px;
+  color: $white-color;
+  letter-spacing: 5px;
+}
+
+.image {
+  max-width: 200px;
+}
